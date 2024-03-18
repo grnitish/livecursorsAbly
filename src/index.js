@@ -16,7 +16,7 @@ import Spaces from "@ably/spaces";
 import { SpacesProvider, SpaceProvider } from "@ably/spaces/react";
 
 
-// const ably = new Realtime.Promise({ key: "LEYH0g.UJwrmw:FPrJY_p_FCpPZmbeVh3IBkkg8hfykYHUBvk_0z3qnB0", clientId: 'clemons' });
+// const ably = new Realtime.Promise({ key: "", clientId: 'clemons' });
 // const spaces = new Spaces(ably);
 
 const client = new Realtime.Promise({
